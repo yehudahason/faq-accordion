@@ -8,7 +8,7 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://yehudahason.github.io/faq-accordion/)
+- Live Site URL: [GitHub Pages](https://yehudahason.github.io/faq-accordion/)
 
 ## Author
 
