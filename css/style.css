@@ -103,6 +103,10 @@ body {
 .faq-question.active img {
   content: url("../assets/images/icon-minus.svg");
 }
+.faq-question:hover {
+  color: var(--violet-600);
+  cursor: pointer;
+}
 .faq-answer {
   font: var(--text-preset-3);
   color: var(--purple-600);
