@@ -75,14 +75,15 @@ body {
   top: 0;
   left: 0;
   width: 100%;
-  height: 40vh;
+  height: 320px;
   background-image: url("../assets/images/background-pattern-desktop.svg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
 }
 .faq-section {
-  position: relative;
+  position: absolute;
+  top: 160px;
   background-color: #ffffff;
   border-radius: 16px;
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
